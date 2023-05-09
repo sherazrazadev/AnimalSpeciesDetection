@@ -1,0 +1,8 @@
+#path: 'content/gdrive/MyDrive/data'
+train: 'content/gdrive/MyDrive/data/train'
+val: 'content/gdrive/MyDrive/data/val'
+
+
+nc:2
+
+names= ["Sheep","Squirrel"]
